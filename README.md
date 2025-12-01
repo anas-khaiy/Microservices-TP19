@@ -7,4 +7,3 @@
 
 <img width="1709" height="952" alt="Screenshot 2025-12-01 at 7 43 12 PM" src="https://github.com/user-attachments/assets/62bc398b-4e72-425e-959e-a59d593d0747" />
 <img width="1709" height="952" alt="Screenshot 2025-12-01 at 7 43 25 PM" src="https://github.com/user-attachments/assets/07572ec4-b0e0-4eea-9c49-53b9591b5a39" />
-<img width="1709" height="952" alt="Screenshot 2025-12-01 at 7 43 45 PM" src="https://github.com/user-attachments/assets/39813509-f79f-4b82-8b01-d37edc76bb11" />
